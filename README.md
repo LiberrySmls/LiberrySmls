@@ -11,6 +11,7 @@ Sou a Alice Lima dos Santos, tenho 20 anos e sou estudante de Ciência da Comput
             title="LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/-8A2BE2?color=0091dc&style=for-the-badge&labelColor=0077b5&logo=linkedinna&label=LinkedIn"
         />
+    </a>
     <a href="https://github.com/LiberrySmls?tab=followers">
         <img 
             alt="Seguidores" 
