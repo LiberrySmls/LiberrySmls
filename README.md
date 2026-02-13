@@ -84,13 +84,13 @@ Sou a Alice Lima dos Santos, tenho 20 anos e sou estudante de Ciência da Comput
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=LiberrySmls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=LiberrySmls&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LiberrySmls&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LiberrySmls&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
 </p
